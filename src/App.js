@@ -7,6 +7,7 @@ import {
   InfoWindow
 } from "react-google-maps";
 import * as parkData from "./data/cricket-ground.json";
+// import * as parkData from "./data/skateboard-parks.json";
 import mapStyles from "./mapStyles";
 
 function Map() {
